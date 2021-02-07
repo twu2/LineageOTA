@@ -1,0 +1,20 @@
+17.1_20210206:
+ - 2021/02 security patch
+ - synced latest LineageOS sources as of 2021/02/06
+ - update DataSwitch Tile icon
+ - add auto call recording option
+ - add option to hide QS footer warning for install certification
+ - add option to force enable call recording, ignore country setting
+ - revert enable call recording in not list in call_record_states.xml
+ - update Kizuna Kernel r6 UV version
+
+17.1_20210115_113010:
+ - based on zeelog's device tree
+ - using Kizuna Kernel r5 UV version
+ - integrated with opengapps pico
+ - 2021/01 security patch
+ - synced latest LineageOS sources as of 2021/01/15
+ - add Reboot/Screenshot/Sound/DataSwitch Tile
+ - enable call recording for Taiwan
+ - enable call recording in not list in call_record_states.xml
+
