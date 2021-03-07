@@ -1,3 +1,8 @@
+17.1_20210307:
+ - 2021/03 security patch
+ - synced latest LineageOS sources as of 2021/03/07
+ - update Kizuna Kernel r7 UV version
+
 17.1_20210206:
  - 2021/02 security patch
  - synced latest LineageOS sources as of 2021/02/06
