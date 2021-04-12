@@ -1,3 +1,10 @@
+17.1_20210412:
+ - 2021/04 security patch
+ - synced latest LineageOS sources as of 2021/04/12
+ - fix LiveDisplay/NightLight
+ - disable all goodix HAL log 
+ - update Kizuna Kernel r8 version
+
 17.1_20210307:
  - 2021/03 security patch
  - synced latest LineageOS sources as of 2021/03/07
