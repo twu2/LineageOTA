@@ -1,3 +1,6 @@
+15.1-20210415:
+ - 2021/04 security patch
+
 15.1-20210307:
  - 2021/03 security patch
 
@@ -7,5 +10,5 @@
 15.1-20210116_155615:
  - 2021/01 security patch
  - add Reboot/Sound/Screenshot Tile
- - fake a signature patch (MicroG)
+ - fake signature patch (MicroG)
 
