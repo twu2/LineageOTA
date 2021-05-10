@@ -1,3 +1,8 @@
+17.1_20210509:
+ - 2021/05 security patch
+ - synced latest LineageOS sources as of 2021/05/09
+ - update Kizuna Kernel r9 version
+
 17.1_20210412:
  - 2021/04 security patch
  - synced latest LineageOS sources as of 2021/04/12
