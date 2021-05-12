@@ -1,3 +1,8 @@
+15.1-20210512:
+ - update simple_lmk
+ - update sdfat to 2.4.5
+ - 2021/05 security patch
+
 15.1-20210415:
  - 2021/04 security patch
 
