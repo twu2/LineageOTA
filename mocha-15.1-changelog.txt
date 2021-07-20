@@ -1,3 +1,7 @@
+15.1-20210719:
+ - update simple_lmk
+ - 2021/07 security patch
+
 15.1-20210617:
  - add 3 finger screenshot
  - 2021/06 security patch
