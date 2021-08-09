@@ -1,3 +1,7 @@
+17.1_20210809:
+ - 2021/08 security patch
+ - synced latest LineageOS sources as of 2021/08/08
+
 17.1_20210713:
  - 2021/07 security patch
  - synced latest LineageOS sources as of 2021/07/13
