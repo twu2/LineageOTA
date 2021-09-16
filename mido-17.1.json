@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1628478398,
-      "filename": "lineage-17.1-20210809-UNOFFICIAL-4.9-gapps-mido.zip",
-      "id": "b7ab7a5c0f4fda32aaa8a4c542a9f165546c545771dcadde671b03e370c18f63",
+      "datetime": 1631807484,
+      "filename": "lineage-17.1-20210916-UNOFFICIAL-4.9-gapps-mido.zip",
+      "id": "c3e38ec086eb9c1114b791e4b3b464120f5800925aadf9c24b0b0059627ac4d7",
       "romtype": "UNOFFICIAL",
-      "size": 792111791,
-      "md5sum": "6545c99f200050b8376f6bf61a6a1edc",
-      "url": "https://github.com/twu2/LineageOTA/releases/download/mido_17.1_20210809/lineage-17.1-20210809-UNOFFICIAL-4.9-gapps-mido.zip",
+      "size": 792754341,
+      "md5sum": "50ab2e6e1c9d82d8ec3b49485dd98411",
+      "url": "https://github.com/twu2/LineageOTA/releases/download/mido_17.1_20210916/lineage-17.1-20210916-UNOFFICIAL-4.9-gapps-mido.zip",
       "version": "17.1"
     }
   ]
