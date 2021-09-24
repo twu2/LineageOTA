@@ -1,3 +1,8 @@
+15.1-20210924:
+ - update simple_lmk
+ - revert sdfat 2.4.5 patch, device might reboot when using Swift Backup app
+ - 2021/09 security patch
+
 15.1-20210810:
  - 2021/08 security patch
 
