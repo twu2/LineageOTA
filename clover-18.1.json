@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+      "datetime": 1633010188,
+      "filename": "lineage-18.1-20210930-UNOFFICIAL-gapps-clover.zip",
+      "id": "fd683742b5a7b85790bef3fe11d6713c002e0b863d2a29aecd293d7cf154fca8",
+      "romtype": "UNOFFICIAL",
+      "size": 909747921,
+      "md5sum": "4ea1375f37ea71dd2da063c86ae55a58",
+      "url": "https://github.com/twu2/LineageOTA/releases/download/clover_18.1_20210930/lineage-18.1-20210930-UNOFFICIAL-gapps-clover.zip",
+      "version": "18.1"
+    }
+  ]
+}
