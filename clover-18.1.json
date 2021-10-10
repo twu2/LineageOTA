@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1633010188,
-      "filename": "lineage-18.1-20210930-UNOFFICIAL-gapps-clover.zip",
-      "id": "fd683742b5a7b85790bef3fe11d6713c002e0b863d2a29aecd293d7cf154fca8",
+      "datetime": 1633830753,
+      "filename": "lineage-18.1-20211010-UNOFFICIAL-gapps-clover.zip",
+      "id": "c98eb2d373e1be4f903a9c5c8e2eb81502f13e89094256dfb26331223f747da2",
       "romtype": "UNOFFICIAL",
-      "size": 909747921,
-      "md5sum": "4ea1375f37ea71dd2da063c86ae55a58",
-      "url": "https://github.com/twu2/LineageOTA/releases/download/clover_18.1_20210930/lineage-18.1-20210930-UNOFFICIAL-gapps-clover.zip",
+      "size": 910784092,
+      "sha256sum": "4baef6906a06f20a784bc00486186a6b9d5e5721284585466aa0e0a2da9b85cc",
+      "url": "https://github.com/twu2/LineageOTA/releases/download/clover_18.1_20211010/lineage-18.1-20211010-UNOFFICIAL-gapps-clover.zip",
       "version": "18.1"
     }
   ]
