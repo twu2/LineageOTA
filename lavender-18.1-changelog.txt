@@ -1,0 +1,10 @@
+18.1_20211012:
+ - 2021/10 security patch
+ - synced latest LineageOS sources as of 2021/10/10
+ - add auto call recording option
+ - add option to force enable call recording, ignore country setting
+ - integrated with opengapps pico
+ - add Reboot/Screenshot/Sound/DataSwitch Tile
+ - enable call recording for Taiwan
+ - enable call recording in not list in call_record_states.xml
+

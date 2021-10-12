@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+      "datetime": 1634028663,
+      "filename": "lineage-18.1-20211012-UNOFFICIAL-gapps-lavender.zip",
+      "id": "87ddabdf0f74b44a27e3c1236cd6cb647da6afededbe1ee31fd966753c5b9703",
+      "romtype": "UNOFFICIAL",
+      "size": 1007506694,
+      "sha256sum": "dbe911e6a093529da5f0cc1890364faa03b81f011656fc1a2ca2e164f5b9050f",
+      "url": "https://github.com/twu2/LineageOTA/releases/download/lavender_18.1_20211012/lineage-18.1-20211012-UNOFFICIAL-gapps-lavender.zip",
+      "version": "18.1"
+    }
+  ]
+}
