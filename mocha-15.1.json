@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1632494450,
-      "filename": "lineage-15.1-20210924-UNOFFICIAL-mocha.zip",
-      "id": "e79757e5aadfc74b5cc9736bbfe22e9398862a7440b4336404fdbe6e25f4e75f",
+      "datetime": 1634457308,
+      "filename": "lineage-15.1-20211017-UNOFFICIAL-mocha.zip",
+      "id": "70f8724cadaf07ba412ab32db2ec08b10d6b2d4ab51a0a75344e89b72490b188",
       "romtype": "UNOFFICIAL",
-      "size": 358950916,
-      "md5sum": "bd987df8b6ef476e39852dac3ee8d383",
-      "url": "https://github.com/twu2/LineageOTA/releases/download/mocha_15.1_20210924/lineage-15.1-20210924-UNOFFICIAL-mocha.zip",
+      "size": 360923176,
+      "md5sum": "82c9dbf974546f9d23583d18a1b0f2c9",
+      "url": "https://github.com/twu2/LineageOTA/releases/download/mocha_15.1_20211017/lineage-15.1-20211017-UNOFFICIAL-mocha.zip",
       "version": "15.1"
     }
   ]
