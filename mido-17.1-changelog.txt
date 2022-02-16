@@ -1,3 +1,7 @@
+17.1_20220216:
+ - 2022/02 security patch
+ - synced latest LineageOS sources as of 2022/02/16
+
 17.1_20220123:
  - 2022/01 security patch
  - synced latest LineageOS sources as of 2022/01/22
