@@ -1,3 +1,6 @@
+15.1-20220308:
+ - synced latest LineageOS sources as of 2022/03/08 (O_asb_2022-02)
+
 15.1-20211017:
  - 2021/10 security patch
 
