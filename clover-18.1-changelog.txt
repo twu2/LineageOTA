@@ -1,3 +1,7 @@
+18.1_20220810:
+ - 2022/08 security patch
+ - synced latest LineageOS sources as of 2022/08/10
+
 18.1_20220715:
  - 2022/07 security patch
  - synced latest LineageOS sources as of 2022/07/14
