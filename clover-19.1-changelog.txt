@@ -1,0 +1,11 @@
+19.1_20220914:
+ - 2022/09 security patch
+ - synced latest LineageOS sources as of 2022/09/14
+ - fixes broken charging
+ - add auto call recording option
+ - add option to force enable call recording, ignore country setting
+ - integrated with MindTheGapps
+ - add Reboot/Screenshot/Sound/DataSwitch Tile
+ - enable call recording for Taiwan
+ - enable call recording in not list in call_record_states.xml
+ - three-finger screenshot (not working)

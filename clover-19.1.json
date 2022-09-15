@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+      "datetime": 1663148246,
+      "filename": "lineage-19.1-20220914-UNOFFICIAL-gapps-clover.zip",
+      "id": "3ebb09ea9822c76be393a884894e16120b788ff37a180c322d50009acb381b97",
+      "romtype": "UNOFFICIAL",
+      "size": 1053004511,
+      "sha256sum": "28f00b012c93f4375d35cdb2f2ccc0545a380e2bf37cb91dfd105deed3063c36",
+      "url": "https://github.com/twu2/LineageOTA/releases/download/clover_19.1_20220914/lineage-19.1-20220914-UNOFFICIAL-gapps-clover.zip",
+      "version": "19.1"
+    }
+  ]
+}
