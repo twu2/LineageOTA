@@ -1,12 +1,3 @@
-18.1_20230115:
- - 2023/01 security patch
- - synced latest LineageOS sources as of 2023/01/15
- - change gapps to mindthegapps
- - add three-finger screenshot
- - add volte icon
- - add vowifi icon
- - add volte xor vowifi icon
-
 18.1_20211108:
  - 2021/11 security patch
  - synced latest LineageOS sources as of 2021/11/08
