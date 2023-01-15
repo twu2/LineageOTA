@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1636331216,
-      "filename": "lineage-18.1-20211108-UNOFFICIAL-gapps-lavender.zip",
-      "id": "0048187a0e9738ab92333f2347e3588183d65a131a97486a5f854172a8e7b102",
+      "datetime": 1673788694,
+      "filename": "lineage-18.1-20230115-UNOFFICIAL-gapps-lavender.zip",
+      "id": "1097395e53935c80503b03602db18908a7541799d37c43548861dc45bb05e0e4",
       "romtype": "UNOFFICIAL",
-      "size": 1006831901,
-      "sha256sum": "58ead4426af69f89b3871a512536e42484f034df07aef5059b0dcad288759283",
-      "url": "https://github.com/twu2/LineageOTA/releases/download/lavender_18.1_20211108/lineage-18.1-20211108-UNOFFICIAL-gapps-lavender.zip",
+      "size": 1033457565,
+      "sha256sum": "bdbf445fd71682617d798ef7b6954279e6df9d39a3c9aa6e144149ab2f5b24f2",
+      "url": "https://github.com/twu2/LineageOTA/releases/download/lavender_18.1_20230115/lineage-18.1-20230115-UNOFFICIAL-gapps-lavender.zip",
       "version": "18.1"
     }
   ]
