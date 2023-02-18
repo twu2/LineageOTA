@@ -1,0 +1,7 @@
+13.0-20230217-2349:
+ - 2023/02 security patch
+ - synced latest PixelExperience sources as of 2023/02/17
+ - add Screenshot/Sound/DataSwitch Tile
+ - add VoLTE/VoWIFI icon
+ - integrated prebuilt boot.img/vendor_boot.img (TWRP 3.7 and Magisk 25206)
+ - add OTA support
