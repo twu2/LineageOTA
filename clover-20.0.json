@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+      "datetime": 1679294262,
+      "filename": "lineage-20.0-20230320-UNOFFICIAL-gapps-clover.zip",
+      "id": "e79a562264d85458c4ae43fc897d9d87f9968395eca8cb367b150091714820db",
+      "romtype": "UNOFFICIAL",
+      "size": 1088992117,
+      "sha256sum": "323b3d42c8c12921e947d76732549072a00a8105edd8cce663325d811d43624b",
+      "url": "https://github.com/twu2/LineageOTA/releases/download/clover_20.0_20230320/lineage-20.0-20230320-UNOFFICIAL-gapps-clover.zip",
+      "version": "20.0"
+    }
+  ]
+}

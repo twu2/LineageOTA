@@ -1,0 +1,16 @@
+20.0_20230320:
+ - 2023/03 security patch
+ - synced latest LineageOS sources as of 2023/03/19
+
+20.0_20230215:
+ - 2023/02 security patch
+ - synced latest LineageOS sources as of 2023/02/14
+ - fixes broken charging
+ - add auto call recording option
+ - add option to force enable call recording, ignore country setting
+ - integrated with MindTheGapps
+ - add Screenshot/Sound/DataSwitch Tile
+ - enable call recording for Taiwan
+ - enable call recording in not list in call_record_states.xml
+ - three-finger screenshot
+ - add VoLTE/VoWIFI icon
