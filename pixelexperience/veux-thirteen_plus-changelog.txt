@@ -1,3 +1,8 @@
+13.0-20230419-0106:
+ - 2023/04 security patch
+ - synced latest PixelExperience sources as of 2023/04/18
+ - update Magisk to 26100
+
 13.0-20230322-0106:
  - 2023/03 security patch
  - synced latest PixelExperience sources as of 2023/03/21
