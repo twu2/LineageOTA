@@ -1,3 +1,7 @@
+13.0-20230812-1116:
+ - 2023/08 security patch
+ - synced latest PixelExperience sources as of 2023/08/11
+
 13.0-20230721-0803:
  - 2023/07 security patch
  - synced latest PixelExperience sources as of 2023/07/20
