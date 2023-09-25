@@ -1,3 +1,8 @@
+20.0_20230925:
+ - 2023/09 security patch
+ - synced latest LineageOS sources as of 2023/09/24
+ - add KernelSU 11245
+
 20.0_20230813:
  - 2023/08 security patch
  - synced latest LineageOS sources as of 2023/08/12
