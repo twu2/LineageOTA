@@ -1,3 +1,7 @@
+20.0_20231212:
+ - 2023/12 security patch
+ - synced latest LineageOS sources as of 2023/12/11
+
 20.0_20231113:
  - 2023/11 security patch
  - synced latest LineageOS sources as of 2023/11/12
