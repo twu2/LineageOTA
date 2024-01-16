@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+      "maintainer": "twu2",
+      "oem": "Xiaomi",
+      "device": "clover",
+      "filename": "Matrixx-v10.2.0-Unofficial-clover-Gapps-20240111.zip",
+      "download": "https://github.com/twu2/LineageOTA/releases/download/clover_14.0_20240111/Matrixx-v10.2.0-Unofficial-clover-Gapps-20240111.zip",
+      "timestamp": "1704988382",
+      "md5": "79afd0fc962fd30a9329a7216db4f807",
+      "size": 1386536815,
+      "version": "v10.2.0"
+    }
+  ]
+}
