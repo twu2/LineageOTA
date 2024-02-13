@@ -1,3 +1,7 @@
+14.0-20240213:
+ - 2024/02 security patch
+ - synced latest LineageOS sources as of 2024/02/12
+
 14.0-20240111:
  - first build
 
